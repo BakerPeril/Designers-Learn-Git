@@ -343,3 +343,4 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 BakerPeril      一个小学生
+BakerPeril      一个小学生，想学点东西
